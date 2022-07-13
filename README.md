@@ -1,4 +1,4 @@
-# LineageOS-Switch-T210-UNOFFICIAL
+# LineageOS-Switch-T210-UNOFFICIAL - Lineage OS 18.1 for Nintendo Switch
 Unofficial Builds for LineageOS for the Nintendo Switch
 
 
