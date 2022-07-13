@@ -1,0 +1,30 @@
+# First time installing this ROM?
+Please, follow: [HOWTO](https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL#how-to-flash-this-rom)
+
+# Update instructions
+Use of OTA Updates is recommended
+
+# Bluetooth Fix
+A Bluetooth fix is available now
+Please, follow:[ FIX](https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL#how-to-fix-bluetooth-keeps-stopping)
+
+# Sleep Fix
+(Disables alarms and notifications to improve the sleep)
+Flash this in TWRP:[ Alarm Disable (By Switchroot)](https://github.com/daviiid99/LineageOS-Switch-T210/raw/main/Patches/Switchroot/alarm-disable.zip)
+
+
+# XBOX Joycon layout
+(Swaps A/B/X/Y buttons to match the Xbox controller order)
+Flash this in TWRP:[ XBOX Joycon Layout (By Switchroot)](https://github.com/daviiid99/LineageOS-Switch-T210/raw/main/Patches/Switchroot/joycon-xbox.zip)
+
+# Changelog
+AOSP Security Patch Level of 2022-07-05
+Switchroot latest patches
+
+# SHA256sum
+```
+sha256sum  zip
+```
+```
+sha256sum  zip
+```
