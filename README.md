@@ -17,7 +17,7 @@ Unofficial Builds for LineageOS for the Nintendo Switch
 <br/>
 
 # LineageOS Switch
-<img src="https://github.com/s3tupw1zard/Lineageos-17.1-T210-Switch-/blob/main/pictures/switch_builds.png">
+<img src="https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL-/blob/main/pictures/switch_builds.png">
 Android 11.x builds for Nintendo Switch based on the open-source project LineageOS
 <br/>
 
