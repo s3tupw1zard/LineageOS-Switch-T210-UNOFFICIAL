@@ -9,6 +9,7 @@ Unofficial Builds for LineageOS for the Nintendo Switch
 
 <b><a href="https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL#how-to-flash-this-rom">How to flash this ROM</a></b>
 
+<b><a href="https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL#how-to-fix-bluetooth-keeps-stopping">How to fix "Bluetooth keeps stopping"</a></b>
 
 <br/>
 
