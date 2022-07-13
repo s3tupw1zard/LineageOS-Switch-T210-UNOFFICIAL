@@ -6,13 +6,15 @@ Unofficial Builds for LineageOS for the Nintendo Switch
 
 ```
 
-## Disclaimer from [wiki.switchroot.org](https://wiki.switchroot.org/en/Android/Build-11#:~:text=We%20highly%20recommend,all%20kernel%20files.)
+Disclaimer from https://wiki.switchroot.org/en/Android/Build-11#:~:text=We%20highly%20recommend,all%20kernel%20files
+
 Android 11 is not ready for release or for public usage. The source trees may
 have missing bits or be incomplete, and issues will be present until the final
 release. If you'd like to test Android 11 builds, you can ask to be a tester on
-the Switchroot Discord server [here](https://discord.com/invite/N9PPYXjWMY).
+the Switchroot Discord server here: https://discord.com/invite/N9PPYXjWMY.
 
-## PSA and Licensing
+PSA and Licensing
+
 LineageOS 18.1/Android 11/R for the Switch is an early work in progress. Do not
 expect support or help or even a functional product. Please do not follow this
 guide unless you have been directed to test 11 building by a Switchroot developer
@@ -23,7 +25,7 @@ and Switchroot (via personal copyright) copyright-labelled files. The Linux kern
 licensed under the GNU General Public License, version 2, and the same requirement for
 history and/or credit applies to all kernel files.
 
-If you want to be sure that everything works, take a LineageOS 17.1 Build from [here](https://download.switchroot.org/android-10/)
+If you want to be sure that everything works, take a LineageOS 17.1 Build from here https://download.switchroot.org/android-10/
 
 ```
 
