@@ -1,6 +1,10 @@
 # LineageOS-Switch-T210-UNOFFICIAL - Lineage OS 18.1 for Nintendo Switch
 Unofficial Builds for LineageOS for the Nintendo Switch
 
+## NOTE
+
+Right now OTA Support is broken. I'll fix that later and publish a new release where it hopefully works. 
+
 
 # Index
 <b><a href="https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL#lineageos-switch">LineageOS</a></b>
